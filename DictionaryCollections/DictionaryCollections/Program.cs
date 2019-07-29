@@ -31,7 +31,6 @@ namespace DictionaryCollections
 	            {
                     Console.WriteLine(lookUp[digit]);
                 }
-	
             }
             Console.ReadLine();
         }
