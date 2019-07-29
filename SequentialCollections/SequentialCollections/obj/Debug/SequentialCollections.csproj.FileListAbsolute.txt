@@ -1,0 +1,7 @@
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojAssemblyReference.cache
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csproj.CoreCompileInputs.cache
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+C:\codecool\2.Si-week\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb
